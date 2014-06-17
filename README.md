@@ -1,4 +1,4 @@
-WP BOOTSTRAP
+WP BULLETT Theme
 ===================
 
 Bootstrap (http://getbootstrap.com) in WordPress theme form. 
